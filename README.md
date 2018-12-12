@@ -7,5 +7,5 @@
 ## Mocks de aplicacion web
 ### Index
 ![](screenshots/mock/Index.png)
-### Inicion sesion
-![](screenshots/mock/Inicio_sesion.png)
+### Inicio sesion
+![](https://github.com/JCLGProjects/LagosDeCastilla-WebApp/blob/master/screenshots/mock/Inicio%20Sesion.png)
