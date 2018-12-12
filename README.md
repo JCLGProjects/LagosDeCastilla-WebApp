@@ -5,7 +5,7 @@
 ## Introduccion
 
 ## Mocks de aplicacion web
-- Index
-![](screenshots/Index.png)
-- Inicion sesion
-![](screenshots/Index\ sesion.png)
+### Index
+![](screenshots/mock/Index.png)
+### Inicion sesion
+![](screenshots/mock/Inicio_sesion.png)
