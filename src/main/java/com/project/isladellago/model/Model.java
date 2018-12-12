@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.eci.arsw.mvc_springtemplate.model;
+package com.project.isladellago.model;
 
 import org.springframework.data.annotation.Id;
 

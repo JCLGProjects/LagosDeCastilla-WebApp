@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.eci.arsw.mvc_springtemplate.persistence;
+package com.project.isladellago.model;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
  *
  * @author camilo
  */
-public interface Persistence {
-    
+public interface ModelRespository extends MongoRepository<Model, String> {
+
 }

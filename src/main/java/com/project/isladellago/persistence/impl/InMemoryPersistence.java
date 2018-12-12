@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.eci.arsw.mvc_springtemplate.services;
+package com.project.isladellago.persistence.impl;
 
-import edu.eci.arsw.mvc_springtemplate.persistence.Persistence;
+import com.project.isladellago.model.ModelRespository;
+import com.project.isladellago.persistence.Persistence;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,9 +15,9 @@ import org.springframework.stereotype.Service;
  * @author camilo
  */
 @Service
-public class ServicesStub implements Services{
+public class InMemoryPersistence implements Persistence{
     
     @Autowired
-    Persistence persistence;
+    ModelRespository mRepository;
     
 }
